@@ -222,7 +222,7 @@ Click the **Open Reports** button in the UI to instantly access your reports fol
 |------|-------|---------|----------|
 | **Solo** | $175 | 1 | Individual IT admins |
 | **Team** | $599 | 5 | IT teams, small MSPs |
-| **Business** | $999 | 20 | Enterprises, large MSPs |
+| **Business** | $1499 | 20 | Enterprises, large MSPs |
 
 **🚀 LAUNCH SPECIAL**: First 100 customers get **20% OFF**  
 Use code: **LAUNCH20** at checkout
