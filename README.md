@@ -1,4 +1,4 @@
-# ADATT - Active Directory Automated Termination Tool
+# Employee Offboarding Automation with ADATT: PowerShell Tool for IT Admins in Hybrid AD & Entra ID
 
 ![Version](https://img.shields.io/badge/version-1.4.1-blue)
 ![License](https://img.shields.io/badge/license-Commercial-green)
