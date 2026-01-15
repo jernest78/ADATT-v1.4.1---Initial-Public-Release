@@ -13,7 +13,7 @@ ADATT handles Active Directory, Microsoft 365, MFA, groups, sessions, and genera
 
 **What's New in v1.6.0:** Enhanced email notifications for terminated users, automated reporting to IT admins, and improved cloud-only user support with intelligent mailbox detection!
 
-<img width="1182" height="813" alt="adattgui-screen" src="https://github.com/user-attachments/assets/82160a57-6881-4e8c-a3ff-422a5e2209d7" />
+![Adatt-UI-screen](https://github.com/user-attachments/assets/b0c95347-c8fe-4d4a-b8e3-8844ffa72ff2)
 
 
 ---
