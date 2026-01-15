@@ -797,13 +797,14 @@ This tool was born from frustration with manual offboarding processes and the la
 
 ### Pricing
 
-| Plan | Devices | Price | Best For |
-|------|---------|-------|----------|
-| **Trial** | Any | FREE for 14 days | Evaluation |
-| **Solo Admin** | 1 | $175 | Individual IT admins |
-| **Team** | 5 | $599 | IT teams, small MSPs |
-| **Business** | 1499 | $479 | Enterprises, large MSPs |
+| Plan           | Devices    | Price | Best For |
+|------|---------|-------|----------  |
+| **Trial**      | Any   | FREE for 14 days | Evaluation |
+| **Solo Admin** | 1     | $175       | Individual IT admins |
+| **Team**       | 5     | $599       | IT teams, small MSPs |
+| **Business**   |       | $1599      | Enterprises, large MSPs |
 
 **One-time payment. Lifetime access. Free updates.**
 
 **🎉 LAUNCH OFFER**: Use code **LAUNCH20** for 20% off (first 100 customers)
+Visit: https://adatt.lemonsqueezy.com
